@@ -17,7 +17,7 @@
 	<artifactId>format-mediawiki</artifactId>
 	<version>8.5-SNAPSHOT</version>
 	
-	<name>Format_MediaWiki</name>
+	<name>Format: MediaWiki</name>
 	<description>Document Format plugin to support reading MediaWiki files</description>
 
 	<licenses>
